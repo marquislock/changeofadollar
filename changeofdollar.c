@@ -43,25 +43,3 @@ int main(void)
     }
     return 0;
 }
-/*
-Marquis Lockhart - CSCI 1110-01-Program 2
-Making Change of a Dollar
-
-Enter Amount Spent0.0
-      Cost      Quarters   Dimes    Nickels   Pennies
-      0.00         4         0         0         0
-Enter Amount Spent1.00
-      Cost      Quarters   Dimes    Nickels   Pennies
-      1.00         0         0         0         0
-Enter Amount Spent1.05
-invalid input
-Enter Amount Spent.83
-      Cost      Quarters   Dimes    Nickels   Pennies
-      0.83         0         1         1         2
-Enter Amount Spent.57
-      Cost      Quarters   Dimes    Nickels   Pennies
-      0.57         1         1         1         3
-Enter Amount Spent.87
-      Cost      Quarters   Dimes    Nickels   Pennies
-      0.87         0         1         0         3
-*/
